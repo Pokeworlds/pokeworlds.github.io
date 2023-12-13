@@ -1,10 +1,10 @@
 {
   "artifacts": [
     {
-      "hash": "c4548a010bbec5a2212b4050b9d44c2ee682a0a023fd9f382b6a03bdedba1b64",
+      "hash": "634bf516ca2ccd9d7fc59d04c66fee3e7fb28e0e2ccd9dac02c4194a3cbf1c7d",
       "name": "PokeForce.jar",
       "path": "https://pokeworlds.github.io/PokeForce.jar",
-      "size": 49582428
+      "size": 49582878
     }
   ],
   "client": {
